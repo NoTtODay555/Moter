@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">test3</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps__tech">Map</string>
+    <string name="reting">reting</string>
+    <string name="Job">จัดการงาน</string>
+    <string name="jobWork">งานที่ทำ</string>
+    <string name="allWork">งานทั้งหมด</string>
+    <string name="allMoney">เงินทั้งหมดที่ได้</string>
+    <string name="id">ID ลูกค้า</string>
+    <string name="problem">ปัญหา</string>
+    <string name="location">ตำเเหน่ง</string>
+    <string name="tell">เบอร์โทร</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_home_trchnician">HomeTrchnician</string>
+</resources>
